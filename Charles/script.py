@@ -8,7 +8,7 @@ from github import Github
 query = 'addClass+in:file+language:js+repo:jquery/jquery'
 
 
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = 'yourtokenhere'
 
 qualifiers = 'in:name+in:description'
 
