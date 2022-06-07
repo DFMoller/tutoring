@@ -2,7 +2,7 @@ import requests
 import urllib.parse
 from github import Github
 
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = 'yourtokenhere'
 
 g = Github(ACCESS_TOKEN)
 
